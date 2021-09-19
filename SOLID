@@ -1,0 +1,11 @@
+head first design pattern
+gangs of 4 design pattern
+refactor guru (online)
+dan geabunea
+
+
+any similarities between solid principles and design pattern
+
+
+Liscov substitution principles: none of the class should be forced to implement any method which it is not supposed to implement. object of the parent 
+class should be replacable by child class.
