@@ -4,3 +4,22 @@ in decorator pattern we have a base object. and if we want some addition feature
 suppose f1 is base object. then we want add f2 feature in it.
 
 then new object will be f1 + f2.
+
+
+Use case:
+
+1. Pizza shop
+  we have a base pizza.
+  
+  we can decorate it with toppings.
+  
+  
+  
+  the benefit of decorator is class explosion. suppose with base object you have 5 extra feature. then there will 5! possibilities to get each different 
+  object.
+  
+  how to create decorator pattern?
+  
+  we have a base class (abstract class)
+  
+  
