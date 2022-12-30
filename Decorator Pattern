@@ -1,1 +1,2 @@
 
+in decorator pattern we have a base object. and if we want some addition feature then we decorate it with new feature.
