@@ -1,2 +1,6 @@
 
 in decorator pattern we have a base object. and if we want some addition feature then we decorate it with new feature.
+
+suppose f1 is base object. then we want add f2 feature in it.
+
+then new object will be f1 + f2.
